@@ -33,39 +33,5 @@
     "email":"angel.lizah@istpargentina.edu.pe",
     "gender":"male",
     "status":"active"
-  },
-  {
-    "id":2805569,
-    "name":"Diego Enriquez",
-    "email":"diego.enriquezm@istpargentits.edu.pe",
-    "gender":"male",
-    "status":"active"
-  },
-  {
-    "id":2805568,
-    "name":"Sebastian Villavicencio",
-    "email":"cristian.villavicencioh@istpargenist.edu.pe",
-    "gender":"male",
-    "status":"active"
-  },
-  {
-    "id":2805567,
-    "name":"Erick Nana",
-    "email":"pierol.nanam@istpargentina.edu.pe",
-    "gender":"male","status":"active"
-  },
-  {
-    "id":2805566,
-    "name":"Jasiel Adrianzen",
-    "email":"jasiel.adrianzenv@istpargentina.edu.pe",
-    "gender":"male",
-    "status":"active"
-  },
-  {
-    "id":2805565,
-    "name":"Cesar Calderon",
-    "email":"cesar.calderonc@istpargentina.edu.pe",
-    "gender":"male",
-    "status":"active"
   }
 ]
